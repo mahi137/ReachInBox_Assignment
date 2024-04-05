@@ -1,0 +1,7 @@
+export const CHANGE_THEME = "CHANGE_THEME"
+export const GET_DATA = "GET_DATA"
+export const CURRENT_THREAD = "CURRENT_THREAD"
+export const GET_TOKEN = "GET_TOKEN"
+export const CURRENT_THREAD_DATA = "CURRENT_THREAD_DATA"
+export const DELETE_THREAD ="DELETE_THREAD"
+export const ADD_THREAD_REPLY = "ADD_THREAD_REPLY"
